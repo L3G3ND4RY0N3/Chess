@@ -1,6 +1,4 @@
-﻿using ClassLogic;
-
-namespace ChessLogic
+﻿namespace ChessLogic
 {
     public class Position
     {
