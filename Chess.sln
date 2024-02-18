@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLogic", "ClassLogic\ClassLogic.csproj", "{76CC649B-5F57-495C-B5F9-AE6AFE32DA3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLogic", "ClassLogic\ClassLogic.csproj", "{76CC649B-5F57-495C-B5F9-AE6AFE32DA3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessUI", "ChessUI\ChessUI.csproj", "{1813C945-B9FA-40A1-8ACE-AE06DD6E8202}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChessUI", "ChessUI\ChessUI.csproj", "{1813C945-B9FA-40A1-8ACE-AE06DD6E8202}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
